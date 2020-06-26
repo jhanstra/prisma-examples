@@ -15,7 +15,7 @@
     "@prisma/client": "2.1.3",
     "@types/node-fetch": "2.5.7",
     "apollo-server-micro": "2.15.0",
-    "graphql": "14.6.0",
+    "graphql": "15.1.0",
     "nexus-prisma": "0.12.0"
   },
   "devDependencies": {
